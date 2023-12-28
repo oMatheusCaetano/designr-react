@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/oMatheusCaetano/designr-react.git"
+    "url": "https://github.com/oMatheusCaetano/designr-react.git"
   },
   "author": "Matheus Caetano",
   "license": "ISC"
